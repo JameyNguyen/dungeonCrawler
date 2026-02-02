@@ -1,0 +1,10 @@
+Jamey Nguyen
+takuli@iastate.edu
+
+Hello,
+    I added ranged combat, new weapons with the ranged weapon type, and the ability to cast a spell.
+    This can be accessed from the keybind 'L' (to start inspecting, ranged attacking, or magic attacking a monster).
+    I also made sure that when attacking with magic or a ranged weapon, to continue next turns for NPCs and to check for weapon types.
+
+Thanks,
+Jamey
